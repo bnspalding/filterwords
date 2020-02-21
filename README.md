@@ -40,7 +40,7 @@ Here is a brief explanation of the structure of the files in this library:
   Dictionary.
 - **sex.words**: words about sex
 - **slur.words**: words of oppression, words meant to harm
-- **vulgar.words**: words that are crude or vulgar, but not used to harm
+- **vulgar.words**: words that are crude or vulgar, but not typically used to harm
 
 ## Contributing
 
