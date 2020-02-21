@@ -42,4 +42,8 @@ Here is a brief explanation of the structure of the files in this library:
 - **slur.words**: words of oppression, words meant to harm
 - **vulgar.words**: words that are crude or vulgar, but not used to harm
 
+## Contributing
 
+I am not currently prepared to open this project to contributions. Feel free to
+fork the project for your own uses if you want something that is not currently
+being provided.
